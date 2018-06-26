@@ -1,5 +1,6 @@
 # Ridmik-Keyboard-Emojis-Modded
 V 2.1
+<p style='color:red'>Go to Ridmik Keyboard's setting once and every patch will be applied automatically.</p>
 - Fixed double typing issue.
 - 75+ new emojis added (replaced few previous emojis).
 - Changed default Bangla fixed layout to National.
