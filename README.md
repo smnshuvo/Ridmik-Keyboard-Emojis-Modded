@@ -1,6 +1,6 @@
 # Ridmik-Keyboard-Emojis-Modded
 V 2.1
-```diff-
+```diff
 Go to Ridmik Keyboard's setting once and every patch will be applied automatically.
 ```
 - Fixed double typing issue.
