@@ -9,3 +9,5 @@ V 2.1
 - Changed suggestion window font.
 - Disabled by default pop-up on key press to enhance typing speed.
 - Enabled vibrate on keypress by default.
+
+Discontinued Supports.
